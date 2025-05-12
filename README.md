@@ -19,7 +19,7 @@ XYZ Retail wants to understand customer demographics and purchase behavior trend
 
 ## 📁 Dataset
 
-- Excel File ()
+- [Excel File](https://github.com/aruna-sundar/Customer-Demographics-and-Purchase-Behavior-Analysis/blob/main/Customer%20Demographics%20and%20Purchase%20Behavior%20Analysis.xlsx)
 
 ---
 

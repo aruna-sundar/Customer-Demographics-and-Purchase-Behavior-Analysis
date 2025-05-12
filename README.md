@@ -25,7 +25,25 @@ XYZ Retail wants to understand customer demographics and purchase behavior trend
 
 ## 📌 Key Visuals and its Analysis
 
-*(You can include screenshots or charts from your Excel dashboard here using image markdown syntax if uploaded, like: `![Dashboard Screenshot](path-to-image.png)`)*
+![image alt](https://github.com/aruna-sundar/Customer-Demographics-and-Purchase-Behavior-Analysis/blob/499f41f04ae0783a77ee7ec7165e4adbace6764f/Customer%20Age%20Distribution.png)
+
+![image alt]()
+
+![image alt]()
+
+![image alt]()
+
+![image alt]()
+
+![image alt]()
+
+![image alt]()
+
+![image alt]()
+
+![image alt]()
+
+![image alt]()
 
 ---
 

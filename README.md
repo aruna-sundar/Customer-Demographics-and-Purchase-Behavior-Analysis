@@ -33,7 +33,7 @@ XYZ Retail wants to understand customer demographics and purchase behavior trend
 
 ![image alt](https://github.com/aruna-sundar/Customer-Demographics-and-Purchase-Behavior-Analysis/blob/33bc6cdb5d3fefd84159d204da0e804745001982/Monthly%20Revenue%20Trend%20across%20Categories.png)
 
-![image alt]()
+![image alt](https://github.com/aruna-sundar/Customer-Demographics-and-Purchase-Behavior-Analysis/blob/e338e2070cfedba4a7527ab06520802bd4279ae0/Proportion%20of%20Purchases%20made%20by%20Different%20Age%20Groups%20in%20each%20Region.png)
 
 ![image alt]()
 
